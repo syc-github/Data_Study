@@ -1,0 +1,9 @@
+微信路径为->D:\Tool\WeChat\WeChat.exe
+QQ路径为->D:\Tool\QQ\Bin\QQScLauncher.exe
+截图路径为->D:\Tool\snipaste\Snipaste-2.2.1-Beta2-x64\Snipaste.exe
+谷歌路径为->C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+网盘路径为->D:\Tool\baiduDisk\BaiduNetdisk\BaiduNetdisk.exe
+MD路径为->D:\Tool\Typora\Typora\Typora.exe
+录屏路径为->D:\Tool\FastStoneCapture\FastStoneCapture最新绿色版\FastStoneCapturePortable\FSCapture.exe
+企业微信路径为->D:\Tool\WorkWeChat\WXWork\WXWork.exe
+课堂路径为->D:\Tool\TZKT\TZKT.exe
